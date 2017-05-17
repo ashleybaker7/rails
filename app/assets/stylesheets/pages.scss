@@ -1,0 +1,29 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1{
+	color: black;
+	font: 36pt Monotype Corsiva;
+	background: #33b8cc;
+	box-shadow: 10px 10px 5px gray;
+}
+
+body{
+	font: 12pt Helvetica;
+	background: #e2faff;
+}
+
+div.images{
+		width: 932px;
+		height: 274px;
+		box-shadow: 5px 5px 2px gray;
+}
+
+div.text{
+	margin: 1%;
+	background: #f7fbfc;
+	box-shadow: 5px 5px 2px gray;
+	border-radius: 0.5em;
+	padding: 0.4em;
+}
